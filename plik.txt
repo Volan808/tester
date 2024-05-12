@@ -1,2 +1,5 @@
 Plik tekstowy
 Durgi wiers galaz
+
+
+Linika master test
