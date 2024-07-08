@@ -4,3 +4,5 @@ Durgi wiers galaz
 Linika master test
 Poprawki do pliku galaz2
 Linijki dopisane na branch merge
+
+D
